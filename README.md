@@ -25,9 +25,9 @@ PAID TOOLS
 - `pip install requests`
 - `pip install bs4 httpx`
 - `rm -rf Lover`
-- `git clone --depth=1 https://github.com/SKBER-CYBER/Lover.git`
-- `cd Lover`
-- `python Lover.py`
+- `git clone --depth=1 https://github.com/SKBER-CYBER/JAKA.git`
+- `cd JAKA`
+- `python JAKA.py`
 
 
 
